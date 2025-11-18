@@ -4,7 +4,7 @@
 
 <div align="center">
 
-## 📊 **Real-Time Project Analytics**
+## 📊 **Project Analytics**
 
 ### 🎯 **Repository Overview**
 [![GitHub Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=IntelligenceX&repo=SDK&theme=radical&show_owner=true)](https://github.com/IntelligenceX/SDK)
