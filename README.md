@@ -18,20 +18,3 @@ This small showcase highlights the official **IntelligenceX / SDK** repository a
 * Actively used in Python projects and easy to integrate.
 * The star badge above shows the project’s stars in real time and links directly to the original repository.
 
----
-
-## How to use this README on *your* GitHub profile
-
-1. If you want this to appear on your profile page, add this `README.md` to a repository named exactly like your GitHub username (e.g. `yourusername/yourusername`). GitHub will render that README on your profile.
-2. Alternatively, paste this `README.md` into any repo you control and **pin that repo** on your profile.
-3. The star badge pulls live data from the original repo — so it shows the project’s real star count and sends visitors to the original project.
-
----
-
-## Small friendly note
-
-This file is purely a showcase and a redirect pointer — it does **not** copy stars from the original repo. The badge displays the original repo’s star count and clicking any link goes straight to `https://github.com/IntelligenceX/SDK`.
-
----
-
-### Want a downloadable `README.md` file or a version customised with your username? Tell me your GitHub username and I’ll produce the ready-to-upload file.
