@@ -1,4 +1,4 @@
-# 🚀 IntelligenceX SDK — Live Analytics Dashboard
+# 🚀 IntelligenceX 
 
 [![IntelligenceX Logo](https://avatars.githubusercontent.com/u/244176443?v=4)](https://github.com/IntelligenceX/SDK)
 
