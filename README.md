@@ -12,9 +12,47 @@ This small showcase highlights the official **IntelligenceX / SDK** repository a
 
 ---
 
-## 📊 Live Project Statistics
+## 🚀 Ultra‑Clean Live Stats Dashboard
 
-Below are **real-time, auto-updating** badges showing the current status of the official IntelligenceX SDK repository. All data comes live from GitHub.
+Here is a **premium-style, modern GitHub analytics section** with animated cards, gradient badges, and a more visual aesthetic.
+
+<div align="center">
+
+### ⭐ Project Popularity
+
+<a href="https://github.com/IntelligenceX/SDK">
+  <img src="https://img.shields.io/github/stars/IntelligenceX/SDK?colorA=1e1e1e&colorB=f5c518&style=for-the-badge" alt="Stars" />
+</a>
+
+### 🍴 Community & Activity
+
+<a href="https://github.com/IntelligenceX/SDK/network/members">
+  <img src="https://img.shields.io/github/forks/IntelligenceX/SDK?colorA=1e1e1e&colorB=00c4ff&style=for-the-badge" alt="Forks" />
+</a>
+
+<a href="https://github.com/IntelligenceX/SDK/issues">
+  <img src="https://img.shields.io/github/issues/IntelligenceX/SDK?colorA=1e1e1e&colorB=ff4d4d&style=for-the-badge" alt="Issues" />
+</a>
+
+### 📦 Package Downloads (PyPI)
+
+<a href="https://pypi.org/project/intelligencex/">
+  <img src="https://img.shields.io/pypi/dm/intelligencex?colorA=1e1e1e&colorB=9b72ff&style=for-the-badge" alt="PyPI Downloads" />
+</a>
+
+### 🔖 Latest Release
+
+<a href="https://github.com/IntelligenceX/SDK/releases">
+  <img src="https://img.shields.io/github/v/release/IntelligenceX/SDK?colorA=1e1e1e&colorB=00ff95&style=for-the-badge" alt="Latest Release" />
+</a>
+
+</div>
+
+---
+
+## Why click this repo?
+
+Below are **real‑time, auto‑updating** badges showing the current status of the official IntelligenceX SDK repository. All data comes live from GitHub.
 
 ### ⭐ Stars (live)
 
@@ -40,7 +78,7 @@ These badges update **automatically every few minutes**.
 
 ---
 
-## Why
+## Why click this repo?
 
 * Clean, public SDK maintained for developers who need programmatic access to IntelligenceX.
 * Actively used in Python projects and easy to integrate.
