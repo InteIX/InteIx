@@ -25,7 +25,7 @@
 </table>
 
 ### 🔥 **Streak & Activity**
-[![GitHub Streak](https://streak-stats.demolab.com/?user=IntelligenceX&theme=radical&fire=FF0000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=InteIx&theme=radical&fire=FF0000)](https://git.io/streak-stats)
 
 </div>
 
